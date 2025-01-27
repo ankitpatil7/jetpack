@@ -1,2 +1,2 @@
 # jetpackk
-main
+main void
