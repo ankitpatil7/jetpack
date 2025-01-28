@@ -1,2 +1,2 @@
 # jetpackk
-main void
+main void call.void
